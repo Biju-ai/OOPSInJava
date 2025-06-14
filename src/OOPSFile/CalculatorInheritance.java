@@ -1,6 +1,6 @@
 package OOPSFile;
 
-public class CalculatorInheritance {
+class CalculatorInheritance {
     public int add(int a,int b){
         return a+b;
     }
